@@ -1,0 +1,17 @@
+C:\Projects\YoramGershman\larvaePositionAnalysis\bin\Debug\net6.0-windows\larvaePositionAnalysis.exe
+C:\Projects\YoramGershman\larvaePositionAnalysis\bin\Debug\net6.0-windows\larvaePositionAnalysis.deps.json
+C:\Projects\YoramGershman\larvaePositionAnalysis\bin\Debug\net6.0-windows\larvaePositionAnalysis.runtimeconfig.json
+C:\Projects\YoramGershman\larvaePositionAnalysis\bin\Debug\net6.0-windows\larvaePositionAnalysis.dll
+C:\Projects\YoramGershman\larvaePositionAnalysis\bin\Debug\net6.0-windows\larvaePositionAnalysis.pdb
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.csproj.AssemblyReference.cache
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.Form1.resources
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.csproj.GenerateResource.cache
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.AssemblyInfoInputs.cache
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.AssemblyInfo.cs
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.csproj.CoreCompileInputs.cache
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.dll
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\refint\larvaePositionAnalysis.dll
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.pdb
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\larvaePositionAnalysis.genruntimeconfig.cache
+C:\Projects\YoramGershman\larvaePositionAnalysis\obj\Debug\net6.0-windows\ref\larvaePositionAnalysis.dll
